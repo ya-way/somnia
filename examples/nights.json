@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2026-10-01",
+    "bedtime": "23:00",
+    "wakeTime": "07:00",
+    "sleepMinutes": 462
+  },
+  {
+    "date": "2026-10-02",
+    "bedtime": "23:15",
+    "wakeTime": "07:10",
+    "sleepMinutes": 453
+  },
+  {
+    "date": "2026-10-03",
+    "bedtime": "23:05",
+    "wakeTime": "07:00",
+    "sleepMinutes": 458
+  },
+  {
+    "date": "2026-10-04",
+    "bedtime": "23:20",
+    "wakeTime": "07:05",
+    "sleepMinutes": 445
+  },
+  {
+    "date": "2026-10-05",
+    "bedtime": "23:10",
+    "wakeTime": "07:00",
+    "sleepMinutes": 452
+  },
+  {
+    "date": "2026-10-06",
+    "bedtime": "23:00",
+    "wakeTime": "07:10",
+    "sleepMinutes": 465
+  },
+  {
+    "date": "2026-10-07",
+    "bedtime": "23:20",
+    "wakeTime": "07:00",
+    "sleepMinutes": 440
+  },
+  {
+    "date": "2026-10-08",
+    "bedtime": "23:45",
+    "wakeTime": "07:00",
+    "sleepMinutes": 413
+  },
+  {
+    "date": "2026-10-09",
+    "bedtime": "00:10",
+    "wakeTime": "07:10",
+    "sleepMinutes": 402
+  },
+  {
+    "date": "2026-10-10",
+    "bedtime": "23:55",
+    "wakeTime": "07:00",
+    "sleepMinutes": 400
+  },
+  {
+    "date": "2026-10-11",
+    "bedtime": "00:00",
+    "wakeTime": "07:05",
+    "sleepMinutes": 405
+  },
+  {
+    "date": "2026-10-12",
+    "bedtime": "00:15",
+    "wakeTime": "07:00",
+    "sleepMinutes": 382
+  },
+  {
+    "date": "2026-10-13",
+    "bedtime": "23:50",
+    "wakeTime": "07:10",
+    "sleepMinutes": 420
+  },
+  {
+    "date": "2026-10-14",
+    "bedtime": "00:05",
+    "wakeTime": "07:00",
+    "sleepMinutes": 402
+  }
+]
